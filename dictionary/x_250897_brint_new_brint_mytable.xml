@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
     <element label="brint mytable" max_length="40" name="x_250897_brint_new_brint_mytable" type="collection">
         <element label="myboolean" max_length="40" name="u_myboolean" type="boolean"/>
+        <element label="my new text column" max_length="32" name="u_my_new_text_column" type="string"/>
     </element>
 </database>

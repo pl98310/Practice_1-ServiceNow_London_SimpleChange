@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
         <application display_value="brint mytable">5e3c3d23db8833004127d730cf961983</application>
@@ -19,6 +20,8 @@
         <query/>
         <report/>
         <roles>x_250897_brint_new.brint_mytable_user</roles>
+        <survey/>
+        <survey_overwrite>false</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-03-13 20:48:47</sys_created_on>
